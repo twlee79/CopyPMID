@@ -1,8 +1,8 @@
 {
   "name": "Copy PMID extension",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 2,
-  "description": "Extension to help copying PMID to clipboard.",
+  "description": "Extension to help copying PMID to clipboard. v1.1 updated to use sendMessage and prevent acting as a submit button",
   "content_scripts": [
     {
       "matches": ["http://*.nlm.nih.gov/pubmed*"],

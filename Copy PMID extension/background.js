@@ -1,4 +1,4 @@
-chrome.extension.onRequest.addListener(function (msg, sender, sendResponse) {
+chrome.extension.onMessage.addListener(function (msg, sender, sendResponse) {
 
     shouldAppend = msg.append;
 
