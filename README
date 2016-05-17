@@ -1,0 +1,14 @@
+CopyPMID Chrome Extension
+=========================
+
+Author: Tet Woo Lee <chrome at twlee dot nz>
+
+Tested: On Chrome 50.0.2661.102 m on Windows 10, 2016-05-17.
+
+Description:
+
+A very simple Chrome extension to add a "Copy PMID" button to NLM PubMed pages. This button provides a quick way of copying the PubMed ID (PMID) of an item to the clipboard. You can then paste the PMID of the item into your favourite reference manager's search tool to import the items into your reference manager.
+
+Usage: 
+- Press the button to copy the PMID to the clipboard.
+- Hold down 'Shift' or 'Ctrl' when clicking button to append to current contents of clipboard (instead of replacing), separated by a space. This is useful for copying multiple items.
