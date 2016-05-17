@@ -1,8 +1,11 @@
 CopyPMID Chrome Extension
 Changelog
 
+2016-05-17 Version 1.2.1
+Updated manifest to allow use with https.
+
 2016-05-17 Version 1.2
-Added icon for publication on Chrome Web Store.
+Tidied up for publication on Chrome Web Store.
 
 2013-04-26 Version 1.1
 Updated to use sendMessage and prevent acting as a submit button.
