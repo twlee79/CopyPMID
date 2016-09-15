@@ -22,7 +22,7 @@
  * Inject a 'Copy PMID' button to PubMed pages.
  */
 
-pmid_items = document.querySelectorAll(".rprtid");
+pmid_items = document.querySelectorAll(".resc:first-child .rprtid");
 
 for (i = 0; i < pmid_items.length; i++) {
     mybutton = document.createElement("button")
