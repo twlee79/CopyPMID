@@ -1,6 +1,10 @@
 CopyPMID Chrome Extension
 Changelog
 
+2020-05-29 Version 1.3
+Updated CSS selectors and added regex to get PMID, for the new version of 
+PubMed 2020-05
+
 2016-09-06 Version 1.2.2
 Updated CSS selector to prevent selection of "[PubMed - in process]" element.
 
